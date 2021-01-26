@@ -9,7 +9,7 @@
 
 <div>
  <p>
-  Tenho 26 anos, atualmente trabalho como desenvolvedor full stack .
+  Tenho 26 anos e trabalho como desenvolvedor full stack a cerca de 6 anos.
 
   Tenho excelentes habilidades de design e codificação, bem como a capacidade de converter requisitos em aplicações.
 </p>
