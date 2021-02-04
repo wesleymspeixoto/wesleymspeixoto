@@ -9,9 +9,11 @@
 
 <div>
  <p>
-  Tenho 26 anos e trabalho como desenvolvedor full stack a cerca de 6 anos.
+Apaixonado por todo Ecossistema Web, Entusiasta de 6 anos de experiência profissional atuando como desenvolvedor Full Stack na solução dos mais diversos problemas. O ecossistema Python, Javascript e Devops fazem parte do meu dia a dia. Trabalho com padrões de arquitetura como MVC, Clean Architecture, SOLID e também com abordagens como o TDD. Faço uso de banco de dados como Mysql, MariaDB, PostgreSQL, MongoDB e Redis. Trabalho também com orquestradores de containers como Docker e Kubernetes.
 
-  Tenho excelentes habilidades de design e codificação, bem como a capacidade de converter requisitos em aplicações.
+Gosto muito de fazer uso de tecnologias de comunicação em tempo real como Socket.IO e protocolos de Mensagens Assíncronas RabbitMQ. Experiência com processamento de imagens utilizando Python, Opencv, Dlib, YOLO e Darknet.
+
+Atualmente admirador da linguagem funcional Elixir e seu Framework Web Phoenix. Sólidos conhecimentos de padrões de arquitetura e facilidade de adsorção de novas tecnologias.
 </p>
 </div>
 
